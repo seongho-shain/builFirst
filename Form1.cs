@@ -19,7 +19,7 @@ namespace builFirst
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Console.WriteLine("Hihi");
+            Console.WriteLine("ByeBye");
         }
     }
 }
